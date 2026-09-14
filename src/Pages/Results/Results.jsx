@@ -104,6 +104,10 @@ export default function Results() {
         label: "საბინაო პირობები",
         url: "https://www.geostat.ge/ka/modules/categories/918/sabinao-pirobebi",
       },
+      {
+        label: "ჯანმრთელობის პრობლემები",
+        url: "https://www.geostat.ge/ka/modules/categories/920/janmrtelobis-problemebi",
+      },
     ],
     en: [
       {
@@ -134,6 +138,10 @@ export default function Results() {
       {
         label: "Living Conditions",
         url: "https://www.geostat.ge/en/modules/categories/918/living-conditions",
+      },
+      {
+        label: "Disability",
+        url: "https://www.geostat.ge/en/modules/categories/920/disability",
       },
     ],
   };
